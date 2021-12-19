@@ -1,0 +1,3 @@
+"0","# Make predictions on the validation data"
+"0","x_validation = model.matrix(medv ~., validation)[,-1]"
+"0","y_validation = validation$medv"

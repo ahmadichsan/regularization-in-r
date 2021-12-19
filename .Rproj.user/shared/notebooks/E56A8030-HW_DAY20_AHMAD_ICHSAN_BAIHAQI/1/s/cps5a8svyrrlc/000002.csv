@@ -1,0 +1,4 @@
+"0","# feature preprocessing"
+"0","# to ensure we handle categorical features"
+"0","x = model.matrix(medv ~ ., train)[,-1]"
+"0","y = train$medv"
