@@ -1,7 +1,0 @@
-"0","# train-validation data"
-"0",""
-"0","# stored 80% (SAMPLE TRAIN TRUE) of the dataset into one variable"
-"0","train = subset(pre_train, sample_train == TRUE)"
-"0",""
-"0","# stored 20% (SAMPLE TRAIN FALSE) of the dataset into one variable"
-"0","validation = subset(pre_train, sample_train == FALSE)"

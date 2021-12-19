@@ -1,4 +1,0 @@
-"0","# test data"
-"0",""
-"0","# stored 20% (SAMPLE FALSE) of the dataset into one variable"
-"0","test = subset(data, sample == FALSE)"

@@ -1,7 +1,0 @@
-"0","pairs.panels("
-"0","  train,"
-"0","  method = ""pearson"", # correlation method"
-"0","  hist.col = ""#00AFBB"","
-"0","  density = TRUE,  # show density plots"
-"0","  ellipses = TRUE # show correlation ellipses"
-"0",")"
